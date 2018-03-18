@@ -1,6 +1,10 @@
 import csv
 from random import randrange
 
+for line in open('../Data_Set/loader_work_orders_sanitised.csv', newline=''):
+    print(line[4].split())
+
+
 with open("../Data_Set/Training.txt", "w") as training_text_file:
     with open("../Data_Set/Testing.txt", "w") as testing_text_file:
         with open('../Data_Set/loader_work_orders_sanitised.csv', newline='') as csvfile:
