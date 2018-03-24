@@ -1,6 +1,6 @@
 import gensim
 
-model = gensim.models.Word2Vec.load('../Data_Set/mymodel_1')
+model = gensim.models.Word2Vec.load('../Data_Set/mymodel_2')
 
 
 #print(model['cable'])
@@ -19,6 +19,10 @@ print(model.most_similar(positive=['ndt'], topn = 10))
 print(model.most_similar(positive=['edd'], topn = 10))
 print(model.most_similar(positive=['change'], topn = 10))
 print(model.most_similar(positive=['wouldnt'], topn = 10))
+print(model.most_similar(positive=['damage'], topn = 10))
+print(model.most_similar(positive=['dmg'], topn = 10))
+print(model.most_similar(positive=['and'], topn = 10))
+
 
 print(model.similarity('cabinets', 'cabinet'))
 print(model.similarity('camshafts', 'camshaft'))

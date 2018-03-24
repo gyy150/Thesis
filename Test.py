@@ -9,6 +9,7 @@ with open('../Data_Set/loader_work_orders_sanitised.csv', newline='') as csvfile
     for row in data_reader:
         short_text = row[4]
 
+        short_text = re.sub('&', ' and ', short_text)
 
         found_string = regex.findall(short_text)
         if len(found_string) > 0 :
