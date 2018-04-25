@@ -18,14 +18,14 @@ from matplotlib import pyplot
 
 
 def write_vacab_to_txt(words):
-    with open("../Ignored_Files/vacab_3.txt", "w") as vacab_file:
+    with open("../Ignored_Files/vacab_5.txt", "w") as vacab_file:
         i = 1
         for word in words:
-            print(word + '\t\t ' + str(i), file = vacab_file)
+            print(word + '\t\t\t\t' + str(i), file = vacab_file)
             i = i + 1
 
 
-model = gensim.models.Word2Vec.load('../Data_Set/mymodel_3')
+model = gensim.models.Word2Vec.load('../Data_Set/mymodel_5')
 
 words = sorted(list(model.wv.vocab))
 write_vacab_to_txt(words)
