@@ -12,7 +12,7 @@ def write_vacab_to_txt(words):
 
 
 def cluster():
-    model = gensim.models.Word2Vec.load('../Data_Set/mymodel_13')
+    model = gensim.models.Word2Vec.load('../Data_Set/mymodel_14')
     filtered_vocab = copy.deepcopy(model.wv.vocab)
     for word in model.wv.vocab.keys():
         if model.wv.vocab[word].count < 10:
@@ -26,7 +26,7 @@ def cluster():
         assigned_clusters = kclusterer.cluster(X, assign_clusters=True)
 
         words = list(filtered_vocab)
-        with open("../Ignored_Files/Model_13_vacab_eulidien_"+str(i)+".txt", "w") as vacab_file:
+        with open("../Ignored_Files/Model_14_vacab_eulidien_"+str(i)+".txt", "w") as vacab_file:
             for i, word in enumerate(words):
                 print(word + "\t\t\t" + str(assigned_clusters[i]), file=vacab_file)
 
@@ -41,7 +41,6 @@ def display_result():
 
 
 if __name__ == '__main__':
-    #display_result()
+    # display_result()
     cluster()
 
-    
