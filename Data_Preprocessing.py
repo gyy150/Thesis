@@ -11,6 +11,23 @@ class Words_Parser(object):
         with open(self.dir_name + self.file_name , newline='') as words_file:
             for line  in words_file:
                 yield line.split()[0]
+
+class Sentences_Parser_3(object):
+    def __init__(self, file_name):
+        self.file_name = file_name
+
+    def __iter__(self):
+
+        with open(self.file_name, "r", newline='') as data_file:
+                line = data_file.readline()
+                while line:
+                    s = line.split('\t')
+                    if len(s) > 1:
+                        yield s[1]
+                    line = data_file.readline()
+
+
+
 class Sentences_Parser_2(object):
     def __init__(self, file_name):
         self.file_name = file_name
@@ -139,6 +156,11 @@ class Sentences_Parser(object):
         short_text = re.sub('\swould not\s', ' cannot ', short_text)
         short_text = re.sub('\swouldnt\s',     ' cannot ', short_text)
         short_text = re.sub('wouldn t\s',     ' cannot ', short_text)
+
+        short_text = re.sub('over haul\s', ' overhaul ', short_text)
+        short_text = re.sub('change out\s', ' changeout ', short_text)
+        short_text = re.sub('up grade\s', ' upgrade ', short_text)
+        short_text = re.sub('u s\s', ' u_s ', short_text)
         return short_text
 
     def __iter__(self):
@@ -156,7 +178,7 @@ class Sentences_Parser(object):
                     self.ignored_lines_count+=1
 
 def Print_Out_Resuls(sentences):
-    with open("../Data_Cleaning/Cleaned_Data_13.txt", "w") as cleaned_data_file:
+    with open("../Data_Cleaning/Cleaned_Data_14.txt", "w") as cleaned_data_file:
         i = 1
         for sentence in sentences:
             string_to_print = str(i) + '\t' + " ".join(sentence)
@@ -175,7 +197,7 @@ def Print_Out_Token_Frequecy(sentences):
             frequency[word] += 1
             sentences.total_number_of_words+=1
     i = 1
-    with open("../Data_Cleaning/Cleaned_Data_Frequency_13.txt", "w") as cleaned_data_file:
+    with open("../Data_Cleaning/Cleaned_Data_Frequency_14.txt", "w") as cleaned_data_file:
         for w in sorted(frequency, key=frequency.get, reverse=True):
             string_to_print = str(i) + '\t' + w +'\t\t\t\t\t'+ str(frequency[w])
             print( string_to_print , file=cleaned_data_file)
