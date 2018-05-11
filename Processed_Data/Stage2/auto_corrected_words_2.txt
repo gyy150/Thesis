@@ -1,0 +1,1060 @@
+1	_number_       	equipment_id	number    
+2	_number__      	itself    	number    
+3	_number_a      	measuring 	_number_a   
+5	_number_am     	_number_ft	_number_am 
+6	_number_b      	circles   	_number_b    
+7	_number_boily  	boily     	_number_ boily 
+8	_number_c      	_number_d 	_number_c    
+9	_number_c_d    	komatsu   	equipment_id   
+10	_number_d      	_number_c 	number_   
+13	_number_e      	grdhire   	number_    
+14	_number_f      	_number_c 	number_    
+15	_number_ft     	_number_am	number_    
+16	_number_g      	quarter   	number_    
+19	_number_k      	spindle   	number_    
+20	_number_l      	cyli      	number    
+21	_number_l_h    	piston    	_number_ left-handside    
+23	_number_n      	banlaw    	number    
+25	_number_nth    	_number_sth	number 
+26	_number_of     	krown     	_number_ of 
+27	_number_pm     	clips     	_number_pm    
+29	_number_s      	dig       	_number_s  
+33	a_c            	aircon    	aircon         
+34	a_comp         	sheeves   	air-compressor      
+35	a_con          	aircon    	aircond   
+36	a_cond         	air_cond  	aircond   
+37	a_cooler       	aftercooler	after-cooler    
+38	a_cs           	conditioners	aircons      
+40	a_e            	reorder   	a_e       
+41	a_m            	beka      	am          
+42	a_spark        	wide      	a_spark     
+44	abss           	psc       	abss      
+45	acarp          	accarp    	acarp      
+46	accarp         	acarp     	acarp      
+47	acces          	accesses  	access    
+48	accesory       	alternater	accessory 
+49	accessary      	once      	accessory 
+50	accom          	july      	accom 
+51	accumlator     	disable   	accumulator
+53	accumulato     	shimbox   	accumulator
+54	acds           	metre     	acds       
+55	acess          	boarding  	access    
+57	adaptors       	tracks    	adapters  
+58	adjustme       	firesuppression	adjustment
+59	adjustor       	repor     	adjuster  
+60	adptor         	off_cab   	adapter   
+61	adust          	ngr       	adjust    
+62	ae             	activate  	ae        
+63	aeta           	calipers  	aeta       
+64	afff           	pcb       	afff            
+70	ahern          	stork     	ahern       
+71	air_con        	aircon    	aircond   
+74	airbox         	rrepair   	'air box' 
+75	aircleaner     	f_d       	'air cleaner'
+77	aircompressor  	smpl      	'air compressor'
+78	aircon         	a_c       	aircond   
+79	airconditioner 	a_c       	'air conditioner'
+82	airconditionor 	pm_lube   	'air conditioner'
+83	airfilter      	growser   	'air filter'
+85	airleak        	reseat    	'air leak'
+86	ajust          	wipper    	adjust    
+87	ajustment      	tritonics 	adjustment
+88	al             	soft      	al        
+90	alot           	retrieval 	'a lot'   
+91	alrm           	activator 	alarm     
+96	amb            	ambient   	ABM       
+99	antana         	crows     	antenna   
+100	antena         	enable    	antenna   
+101	april          	march     	april     
+103	ar             	shot      	ar        
+104	arial          	recording 	aerial    
+106	aro            	chrisway  	Aro      
+108	assem          	assy      	assembly  
+109	assembley      	shafts    	assembly  
+110	assy           	ass       	assembly     
+111	assys          	expired   	assembly    
+112	atb            	day_blow  	atb       
+113	atr            	vacum     	after       
+114	att            	warrenty  	att       
+115	attac          	mec       	attac    
+116	aug            	mar       	auguster       
+118	aust           	version   	aust      
+126	awex           	white     	awex  
+127	awma           	hastdeer  	awma  
+128	axcess         	nordic    	excess    
+130	b_m            	baskets   	b_m        
+131	b_maker        	conversion	boiler-maker     
+132	b_o            	breakout  	breakout        
+133	b_out          	breakout  	breakout      
+134	ba             	drove     	BA        
+137	ballstud       	ballstuds 	'ball stud'
+139	banlaw         	wiggings  	vendor_name 
+141	batt           	battery   	battery      
+144	batts          	batteries 	batteries  
+147	bcs            	tcs       	bcs      
+148	bearin         	brakets   	bearing   
+150	bellcrank      	bell      	'bell crank'
+151	bellyguard     	g_case    	'belly guard'
+152	bellyguards    	cables    	'belly guards'
+153	beval          	rates     	vendor_name  
+156	bkt            	jamed     	bracket   
+157	blad           	hastdeer  	bald      
+159	blc            	ratio     	vendor_name      
+160	blk            	hoisting  	blk      
+161	blowby         	dysart    	'blow by' 
+163	blowin         	prox      	blowing   
+164	blowning       	flywheel  	blowing
+165	bm             	cartridges	BM        
+166	bma            	south     	BmA       
+167	bo             	clamping  	BO        
+169	boken          	broke     	broken    
+170	bol            	chan      	bol      
+171	bonet          	traps     	bonnet    
+172	bonnett        	instruc   	bonnet    
+173	borg           	rocket    	Borg      
+174	boxs           	blew      	boxes     
+175	bp             	atmospheric	BP        
+176	br             	brak      	BR        
+177	brack          	suppn     	bracket   
+178	bracke         	lined     	bracket   
+179	brak           	boilermaker	brake     
+182	brakets        	acces     	brackets  
+183	breake         	cylender  	breaker   
+184	brg            	bearing   	bearing      
+190	brok           	patch     	broke     
+191	bronken        	spinning  	broken    
+192	bsem           	vultec    	bsem    
+195	bushers        	lance     	bushers
+197	bv             	electmotorbrg	bv        
+198	bw             	billivants	bw        
+200	c_b            	e_l       	circuit-breaker        
+201	c_o            	changeout 	changeout        
+202	c_out          	c_o       	changeout     
+204	c_side         	piviot    	c_side     
+206	c_w            	moun      	c_w        
+209	cabside        	fallen    	'cab side'
+210	cac            	vale      	cac       
+211	caes           	tri       	caes      
+212	calipier       	calipiers 	caliper   
+213	calipiers      	calipier  	calipers  
+214	calliper       	ratio     	caliper   
+215	callipers      	end_end   	calipers  
+216	camlock        	correction	'cam lock'
+220	carbody        	radiator  	'car body'
+226	carsouel       	a_cs      	carousel  
+227	cas            	camera    	cas      
+230	cav            	lumbar    	cav      
+231	cb             	gui       	cb        
+232	ccjensen       	_number_ac	Jensen    
+233	cct            	circ      	cct        
+234	cctv           	weightometer	CCTV      
+235	cd             	piece     	CD        
+237	cedt           	bonnets   	cedt       
+238	cense          	recieve   	cense    
+239	centershift    	centreshift	'center shift'
+243	cha            	chang     	cha      
+244	chage          	overflows 	chage  				?
+245	chan           	rolling   	chain      
+246	chang          	cha       	change     
+247	changeou       	adjustme  	changeout 
+248	changeouts     	deering   	changeout
+249	changout       	wheelend  	changeout 
+251	chassi         	ribs      	chassis   
+252	chassie        	meeting   	chaise    
+253	cheak          	evaluation	check     
+254	chech          	trans_t   	check    
+256	chg_out        	feb       	checkout  
+257	chgout         	regased   	checkout 
+258	chk            	sprags    	check        
+259	chk_adj        	atb       	check adjust    
+260	chks           	electrician	check   
+263	circlips       	visability	'cir clips'
+264	circut         	retrieval 	circuit 
+265	cisco          	rd__number_	cisco     
+266	ckeck          	pegs      	check      
+267	clean_number_  	machineclean	clean _number_   
+268	cleanout       	outside   	'clean out'
+270	cly            	cyclinder 	cylinder      
+271	clyinder       	upshifting	cylinder  
+272	cma            	prep      	cma       
+274	cms            	proportional	cms
+276	cntrl          	combination	control   
+278	collets        	refitting 	'col lets'
+280	colum          	defct     	'col um'  
+283	comin          	matrix    	coming  
+284	comission      	fluro     	commission
+286	commerial      	commecial 	commercial
+289	commision      	carryout  	commission
+290	commradio      	mask      	'comm radio'
+291	comms          	communications	comms  
+293	compl          	readjust  	compl  
+295	complet        	opperators	complete
+297	compresor      	startup   	compressor
+298	compresser     	note      	compressor
+300	cond           	con       	condo     
+302	condt          	s_o       	contd     
+303	consol         	console   	console
+304	consule        	gease     	console    
+305	contactor      	reactors  	contactor
+306	contactors     	dave      	contactors
+307	contol         	best      	control   
+308	contr          	l_u       	'con tr'  
+311	controlers     	brambles  	controllers
+312	controll       	s_l       	control   
+313	conv           	convertor 	con       
+316	cooee          	rocket    	coo       
+317	coole          	year      	cooler   
+319	coolingscreen  	skidsteer 	'cooling screen'
+320	coupler        	ced__number_	coupler    
+321	cout           	rel       	changeout     
+322	coxon          	hills     	coxon  
+323	cpfp           	accarp    	cpfp       
+325	cq             	head      	cq        
+326	cqfms          	hdl       	cqfms       
+328	cranage        	pods      	carnage   
+332	crkd           	functioning	cracked      
+334	croud          	bins      	croud      
+335	csa            	aug       	Csa        
+337	cts            	aluminium 	cts      
+339	cummins        	thermostats	vendor_name  
+340	cuting         	instru    	cutting 
+342	cwpope         	_number_digital	'cw pope'     ?vendor_name
+343	cy             	fully     	cylinder       
+345	cycl           	cly       	cylinder     
+346	cyclinder      	ram       	cylinder  
+347	cyd            	horsecollar	cylinder       
+348	cyld           	cyli      	cylinder       
+349	cylender       	faces     	cylinder  
+350	cyli           	followers 	cylinder       
+351	cylider        	oiler     	cylinder  
+352	cylin          	plennum   	cylinder  
+353	cylind         	li        	cylinder
+354	cylindar       	cylinde   	cylinder  
+355	cylinde        	cyc       	cylinder  
+357	d_e            	interm    	d_e        
+358	d_line         	joints    	drive-line    
+359	d_s            	supplementry	d_s       
+360	d_shaft        	panelview 	drive-shaft     
+361	d_side         	squashed  	drive-side    
+362	da             	l_u       	DA        
+363	damag          	reposition	damage    
+365	damged         	faces     	damaged   
+366	dammaged       	precommissioning	damaged   
+367	date_time      	rubbing   	date_time   
+368	day_blow       	atb       	day_blow 
+369	dcp            	icing     	dcp        
+370	dcs            	ocs       	dcs      
+371	de             	traction  	DE        
+372	deaccelerator  	locations 	decelerator
+373	dec            	jan       	DEC       
+374	decel          	rod       	decelerator    
+377	deckbush       	subsaver  	'deck bush'
+378	deering        	close     	deering    
+379	defct          	colum     	defct  
+380	der            	rtd       	der       
+381	derate         	derating  	derate      
+383	derating       	derate    	derating  
+384	detent         	calibrate 	detent   
+387	dg             	breakers  	dg       
+388	dia            	scaffold  	diagnose     
+389	diag           	diagnose  	diagnose       
+390	diag_rep       	shudder   	'diagram repair'  
+391	diagn          	leakagetest	diagnose     
+392	diagnos        	keeper    	diagnose  
+393	diaphram       	transducer	diaphragm 
+394	dickie         	acarp     	dickie   
+395	dif            	transducer	diff      
+398	disch          	appliance 	discharge  
+399	diverter       	divertor  	diverter
+401	dogbone        	lateral   	'dog bone'
+402	dogbox         	letting   	'dog box' 
+405	dozer          	machine   	dozer  
+406	dpsa           	provide   	dpsa      
+407	dr             	drive     	Dr        
+409	draglink       	tierod    	'drag link'
+411	drawin         	sosresults	drawing 
+412	dril           	rehose    	drill     
+415	droping        	tripping  	drooping  
+416	drosterlabour  	duplication	drosterlabour 
+418	drve           	dr        	drive     
+420	ds             	nar       	ds       
+421	duals          	duels     	duals     
+422	ducktail       	headboard 	'duck tail'
+423	duocone        	duo       	'duo cone'
+428	dve            	tcon      	dve      
+429	dy             	dys       	dy        
+432	dys            	dysart    	dys      
+433	dysart         	dys       	vendor_name    
+434	e_c            	e_cont    	e_cont       
+435	e_cont         	e_c       	e_cont      
+436	e_e            	end_end   	end_end      
+437	e_f            	excitation	eff       
+438	e_fault        	o_load    	'e-fault'          &'electrical fault'     
+440	e_l            	elt       	e_l      
+441	e_m            	tol       	e_m       
+442	e_mover        	austboreline	e_mover     
+443	e_stop         	o_d       	emergency-stop     &e-stop      
+444	e_stops        	waste     	emergency-stop     &e-stop       
+446	ecm            	vims      	ecm        
+447	ect            	super     	etc       
+448	edc            	electronic	edc      
+449	edd            	electrial 	edd      
+450	edic           	overcharging	edic      
+451	eekly          	ay        	weekly    
+452	el             	impl      	el       
+457	electricial    	motorola  	electrical
+458	electro        	eh        	electrical   
+460	elt            	app       	elt       
+461	emeco          	ba        	vendor_name     
+462	emer           	emergency 	emergency   
+463	emerg          	emergency 	emergency  
+468	emg            	fog       	Meg       
+471	engauge        	activate  	engage
+472	engin          	ltr       	'en gin'  
+475	epair          	keys      	repair       
+476	eplace         	install   	replace     
+477	eq             	equalizer 	Esq       
+483	erattic        	_number_ft	'er attic'
+484	estop          	magnet    	'e stop'  
+485	et             	upshifting	ET        
+490	exaust         	sensing   	exhaust     
+492	exh            	exhaust   	exhaust        
+495	extention      	carriers  	extension 
+496	extingisher    	ne        	extinguisher
+497	extingusher    	extingisher	extinguisher
+498	f_d            	f_drive   	FD        
+499	f_drive        	tandem    	final-drive     
+500	f_drives       	banks     	final-drives    
+501	f_r            	dig       	front-right        
+502	f_supp         	awex      	fire-suppression      
+504	faiult         	checktest 	faulty     
+505	fallin         	fall      	falling 
+506	falt           	f_drives  	fault      
+507	falty          	bin       	faulty    
+508	fau            	shaking   	fault       
+509	faul           	recalibrate	fault     
+510	fd             	tandem    	fd        
+511	feb            	electrohydraulic	february       
+515	festo          	kunkle    	festo      
+516	fi             	technician	fi       
+517	fil            	suppl     	fil      
+518	fillters       	ecam      	filters   
+519	filt           	cooler    	filters      
+520	filte          	senders   	filters     
+524	fis            	accept    	fis      
+525	fiting         	suply     	fitting   
+527	fitte          	correction	fitter    
+528	fittin         	griffo    	fitting 
+529	flac           	pall      	'fl ac'   
+530	flashover      	perspex   	'flash over'
+531	fld            	map       	fld      
+534	floormat       	bowls     	'floor mat'
+537	fluro          	comission 	fluorescent    
+538	fm             	comm      	FM        
+539	fms            	am        	FMs       
+540	fnt            	pk        	front      
+542	fpe            	sicada    	fpe       
+543	fram           	closer    	frame     
+545	frcp           	solonoid  	frcp     
+547	friday         	wednesday 	Friday    
+548	frnt           	fnt       	front     
+549	fron           	spec      	front     
+550	frount         	wiffle    	front     
+551	frt            	f_drive   	front      
+553	fwd_rev        	moldboard 	fwd_rev       
+554	g_box          	gearbox   	gearbox       
+555	g_case         	srb       	g_case      
+556	g_d            	amfm      	g_d        
+561	gd             	commecial 	Gd        
+562	ge             	meeting   	GE        
+563	gearcase       	gearbox   	'gear case'
+564	gease          	consule   	grease     
+565	geting         	manually  	getting   
+566	ghange         	bottoms   	change      
+567	gon            	cooee     	gon       
+574	goyen          	prim      	vendor_name 
+575	gp             	group     	GP        
+577	gps            	exchange  	gps     
+580	grd            	crook     	grd      
+581	grdhire        	airconditionor	grd-hire    
+582	greace         	emergency_stops	grease    
+583	greas          	klinge    	grease    
+584	greaseline     	nqc       	'grease line'
+585	greese         	clips     	grease    
+586	grese          	greace    	grease    
+588	grouzer        	grousers  	grouser   
+590	grp            	gp        	grp      
+592	grs            	krown     	grs       
+594	guages         	restrict  	gauges    
+597	h_d            	claim     	h_d      
+598	h_light        	prepreventative	h_light     
+599	h_lights       	mainfold  	h_lights    
+601	h_rail         	handrail  	handrail     
+603	h_v            	resistors 	h_v       
+604	hac            	b_o       	hac      
+606	hammerlok      	hammerlocks	hammerlock
+608	hardface       	compres   	'hard face'
+610	haynes         	collapsable	vendor_name    
+611	hd             	ass       	hd       
+612	hdal           	printout  	hdal       
+613	hdl            	outs      	hdl       
+617	headweld       	hedweld   	'head weld'
+620	heui           	rem       	heui       
+621	hi_low         	billivants	hi-low    
+622	hiab           	palfinger 	'hi ab'   
+623	hids           	wippers   	hides     
+624	high_low       	timmer    	high-low    
+628	hino           	limiter   	hino   
+629	hiost          	disable   	hoist     
+630	hlp            	sheilds   	hlp      
+631	hm             	sm        	hm        
+632	hmu            	treadle   	hmu       
+635	hourmeter      	gui       	'hour meter'
+636	hous           	loc       	hous     
+637	housin         	pedals    	housing   
+638	hpr            	spin      	hpr        
+639	hse            	e_mover   	hse       
+640	hsg            	housing   	housing       
+641	hsi            	bear      	hsi       
+642	hst            	xir       	hst       
+643	hudraulic      	oi        	hydraulic 
+645	hv             	pot       	hv       
+646	hy             	wider     	hy       
+649	hydr           	drilling  	hydraulics     
+651	hydralics      	ramp_number_	hydraulic
+652	hydrlic        	reservior 	hydraulic 
+653	hydrolic       	mouldboard	hydraulic 
+654	hydrualic      	hydralic  	hydraulic 
+655	hydrulic       	imp       	hydraulic 
+658	i_o            	nmms      	i_o        
+659	idt            	riu       	idt        
+660	ign            	ignition  	ignition       
+663	imput          	rate      	input     
+664	in_out         	grass     	in_out     
+665	incab          	hydaulic  	incab  
+666	indercator     	receptical	indicator 
+667	indicater      	calipier  	indicator  
+669	ing            	ohaul     	NA       
+671	inj            	injection 	injection       
+672	injecter       	pedestal  	injector  
+673	inners         	rd__number_	inners      
+674	inop           	flickers  	inoperable   
+675	inoperatable   	failures  	inoperable
+676	inpection      	blakeley  	inspection
+678	inpsection     	finance   	inspection
+679	insite         	sevice    	insite 
+680	insp           	bar       	instep       
+681	inspe          	inspectio 	instep    
+683	inspectio      	washplant 	inspection
+684	inspectioner   	faiult    	inspectioner'
+685	instal         	debris    	install   
+686	instru         	instruct  	instruct     
+688	insul          	sb        	insulation    
+689	intercooler    	painted   	'inter cooler'
+691	interm         	pinn      	interm 
+692	intermitant    	problems  	intermittent
+694	intermitently  	rearmost  	intermittently
+695	intermittant   	w_shop    	intermittent
+696	intermittantly 	sometimes 	intermittently
+698	inv            	tyco      	inv     
+700	investergate   	copper    	investigate
+701	investigat     	horsecollar	investigate
+702	iol            	rpl       	oil       
+703	isolater       	isolator  	isolator   
+706	j_box          	engineering	j_box       
+707	j_start        	mt        	jump-start     
+708	jackshaft      	payment   	'jack shaft'
+710	jaming         	sheilds   	jamming   
+711	jan            	dec       	january        
+713	jlg            	circlip   	jlg        
+717	kaeser         	conveyor  	vendor_name    
+718	kal            	statut    	kal      
+721	kamlok         	banlaw    	camlock    
+723	kickout        	prox      	'kick out'
+726	klinge         	rates     	vendor_name     
+727	kom            	crew      	kom       
+729	kone           	refrigerator	kone      
+731	kress_number_  	reflash   	kress_number_  
+732	krown          	grs       	vendor_name     
+733	kunkle         	end_end   	vendor_name    
+735	l_d            	t_l       	l_d        
+736	l_f            	r_f       	left-front       
+738	l_h            	r_h       	left-hand        
+739	l_h_f          	r_h_r     	left-hand-front        
+741	l_h_s          	lhs       	left-handside       
+743	l_hl_h         	topped    	left-hand    
+745	l_r            	lhd       	left-rear        
+746	l_rear         	tooling   	left-rear     
+747	l_s            	bosses    	lef-side      
+748	l_u            	l_up      	l_up       
+749	l_up           	l_u       	l_up      
+750	l_v            	vol       	l_v       
+751	lader          	b_out     	ladder    
+752	laek           	leek      	leak      
+753	latchbar       	t_con     	'latch bar'
+754	latchlever     	champ     	'latch lever'
+755	latchs         	catches   	latch   
+756	laterial       	lat       	laterial
+757	laydown        	eject     	laydown
+758	ld             	wheeled   	ld       
+760	ldw_number_    	tss_number_	equipment_id 
+761	leakagetest    	sb        	'leakage test'
+762	leaki          	hdreman   	lacking      
+763	leakin         	b_o       	lacking 
+764	leal           	bikini    	leak      
+765	leckie         	powered   	lacking   
+766	lecking        	balancer  	lacking   
+767	leds           	nordic    	leds     
+769	lense          	tied      	lens      
+770	lf             	r_f       	left-front        
+771	lft            	against   	left-front      
+772	lghts          	ge        	lights    
+773	lh             	rh        	left-hand        
+774	lh_rh          	bottles   	left-hand right-hand       
+775	lhd            	convertors	left-hand        
+779	li             	cylind    	li        
+780	ligh           	under     	light     
+781	lin            	draging   	line       
+782	linebore       	austborereclaim	'line bore'
+783	lites          	tailshaft 	light  
+784	loc            	hous      	lock      
+785	lockring       	headslide 	'lock ring'
+786	lp             	r_hs      	LP        
+787	lr             	saver     	left-rear        
+788	lt             	light     	light        
+789	lta            	beside    	lta       
+790	ltr            	letters   	ltr        
+792	lub            	cancelled 	lub       
+793	lube_pm        	airconditionor	lube pm    
+794	luber          	greaser   	luber    
+796	lubricatiom    	lurication	lubrication
+797	lurication     	lubricatiom	lubrication
+798	lv             	connector 	lv       
+799	lvl            	flow      	level        
+800	lwr            	chan      	lower        
+801	ly             	retracting	NA        
+802	m_c            	ch        	m_c        
+803	m_n            	operation 	m_n        
+804	m_n_number_    	protectors	m_n_number_    
+805	m_number       	m_n       	m_n    
+806	m_t            	built     	m_t        
+807	machin         	receptical	maching
+809	mack           	weigh     	mack      
+810	mackay         	mky       	vendor_name     
+812	mainfold       	h_lights  	manifold  
+813	maint          	maintenance	maintenance  
+814	maintaince     	counterbalance	maintenance 
+815	maintance      	lace      	maintenance 
+817	maintence      	mtq       	maintenance
+819	mamoth         	mark      	'ma moth' 
+821	mar_number_    	feb_number_	march _number_  
+822	marc           	_number_of	Marc      
+824	matt           	u_joint   	Matt      
+825	matts          	redirect  	matts     
+826	mcc            	rpc       	mcc        
+829	mec            	equaliser 	mec        
+830	mech           	elec      	mechanical   
+831	mechancial     	staple    	mechanical
+833	mems           	aftermarket	mems   
+835	mfp            	nar       	mfp        
+836	mir            	bail      	Mir       
+838	mis            	lft       	mis     
+840	mising         	rusty     	missing
+842	missin         	sheared   	missing 
+845	mms            	nqis      	mms      
+846	mnt            	geting    	mnt      
+847	mnth           	engauge   	month     
+848	mon            	payment   	monday       
+849	monday         	tuesday   	Monday    
+850	monitek        	transition	vendor_name     
+851	moniter        	selecting 	monitor
+852	moter          	wh        	motor     
+859	msd            	rearmost  	msd       
+861	mst            	column    	mst       
+863	mth            	fortnightly	mth      
+865	mti            	bateries  	mti       
+866	mtq            	maintence 	mtq        
+869	muirhead       	cruise    	vendor_name   
+871	n_r            	precheck  	n_r         
+872	n_s            	degree    	n_s        
+873	n_w            	solinoids 	n_w        
+874	nar            	mfp       	vendor_name      
+875	nat            	discharged	person      
+877	nde            	de        	nde       
+878	ndt            	cylinder  	ndt       
+879	ne             	extingisher	ne        
+880	ner            	ngr       	ner      
+881	neutralise     	restart   	neutralize
+883	nev            	wednesday 	vendor_name       
+884	ngr            	startco   	ngr       
+885	nitto          	rd__number_	nitto  
+889	nmms           	tis       	nmms      
+890	no_number_new  	new       	number new  
+893	nov            	spots     	Nov       
+895	nozzel         	hits      	nozzle    
+896	np             	posts     	np        
+899	nqis           	mms       	nqis      
+900	ns             	stairway  	ns        
+902	nulling        	straightening	nulling   
+903	o_c            	overcurrent	over-current      
+904	o_d            	dented    	o_d       
+905	o_flow         	invoice   	over-flow      
+906	o_h            	retention 	overhaul        
+907	o_haul         	overhaul  	overhaul      
+908	o_heat         	overheat  	over-heat      
+909	o_l            	tol       	oil       
+910	o_load         	e_fault   	over-load     
+911	o_ring         	oil_ring  	oring     
+912	o_s            	needs     	O's       
+913	o_stroke       	o_heat    	over-stroke    
+914	o_t            	cribhut   	over-temp        
+915	o_temp         	overtemp  	over-temp      
+916	oc             	adust     	over-current        
+917	ocs            	cs        	ocs       
+920	od             	lots      	od        
+921	oem            	duplication	oem        
+922	off_cab        	adptor    	'off cab'   
+923	offcab         	driver    	'off cab' 
+926	ohaul          	recondition	overhaul      
+927	oheat          	o_heat    	over-heat  
+928	oheating       	cvl       	over-heating
+929	oil_ring       	oring     	o-ring    
+931	oiler          	tss_number_	oiler 
+932	oilleak        	winds     	'oil leak'
+933	ok             	intermittently	OK        
+934	ol             	railing   	ol        
+935	on_off         	offcab    	on_off      
+936	onboard        	allow     	on-board   
+937	ontop          	fluoro    	on top  
+938	oo             	balancer  	oo        
+939	oper           	rung      	oper   
+940	operat         	_number_disc	operator 
+941	operater       	identified	operator  
+942	opperation     	pop       	operation 
+943	opperator      	e_h       	operator  
+944	opperators     	disconnects	operators 
+946	orings         	oil_ring  	o-rings   
+947	os             	preparation	OS        
+948	ou             	difference	ou        
+949	outers         	thrust    	outter    
+950	outter         	outer     	outter     
+955	overstroke     	stroke    	'over stroke'
+957	overtemp       	o_temp    	'over temp'
+958	ovm            	bridgestone	ovm      
+960	p_brake        	parkbrake 	park-brake     
+961	p_down         	identifications	pull-down      
+962	p_drive        	hammerlok 	pump-drive     
+963	p_h            	ced__number_	vendor_name       
+964	p_m            	l_d       	prime-mover        
+965	p_mover        	loop      	prime-mover     
+966	p_s            	before    	pre-strip      
+967	p_strip        	wh        	pre-strip     
+968	p_t            	srb       	p_t        
+969	pac            	bogging   	PAC       
+970	panelview      	duplicate 	'panel view'
+971	panhard        	automatically	'pan hard'
+972	pannel         	vesda     	panel     
+973	parkbrake      	p_brake   	'park brake'
+974	parker         	enzed     	vendor_name    
+975	pb             	n_s       	pb        
+976	pbo            	properly  	pbo       
+977	pc             	actuators 	pc        
+979	pcr            	player    	pcr       
+980	pdo            	maintanence	pdo       
+981	pdt            	kress_number_	pdt       
+982	pe             	necessary 	pe        
+986	perma          	sytem     	perma 
+988	pex            	changeout 	pex        
+990	ph             	phot      	ph      
+991	pho            	phot      	phot       
+993	pin_bush       	replaces  	pin-bush   
+995	pinn           	interm    	pin     
+997	pinyata        	pinyarda  	pinata    
+998	piviot         	leds      	pivot     
+999	pla            	recharging	pla       
+1000	plc            	create    	plc        
+1002	plgd           	eh        	pluged      
+1003	pls            	crows     	pls      
+1007	pmp            	belt      	pump      
+1008	pms            	bus       	pms       
+1010	po             	bushs     	po        
+1011	por            	flexable  	por       
+1012	pos            	position  	position       
+1013	positio        	detached  	position  
+1014	postion        	s_h       	position  
+1015	postioner      	dutchmen  	positioner
+1016	pottable       	potable   	portable  
+1018	powertrain     	_number_digital	'power train'
+1019	ppc            	pink      	ppc       
+1020	preas          	ting      	preasure  
+1023	preche         	prechec   	precheck  
+1026	precleaner     	vent      	'pre cleaner'
+1028	precommissioning	derated   	'pre commissioning'
+1030	preload        	scoreboard	'pre load'
+1032	premaint       	intervals 	pre-maintenance     
+1037	prepreventative	preventative	'pre preventative'
+1039	pressur        	bowls     	pressure   
+1040	pressurise     	rests     	pressurize
+1041	pressurised    	hilands   	pressurized
+1043	pressurising   	pressuriser	pressurizing
+1047	primepower     	chrisway  	'prime power'
+1049	profroma       	thyrister 	profroma  
+1051	propell        	electro   	propel    
+1052	prox           	proximity 	proximity   
+1053	ps             	electmotorbrg	ps        
+1054	psc            	tci       	psc      
+1055	pts            	bogey     	parts      
+1056	pu             	pk        	Pu        
+1058	pum            	ting      	Pym       
+1059	pumpdrive      	cables    	'pump drive'
+1061	pusharm        	armrest   	'push arm'
+1063	pwr            	power     	power        
+1068	r_d            	t_l       	r_d        
+1069	r_f            	l_f       	right-front        
+1070	r_h            	l_h       	right-hand        
+1071	r_h_f          	l_h_f     	right-hand-front       
+1072	r_h_r          	l_h_r     	right-hand-rear      
+1073	r_h_s          	lhs       	right-hand-side       
+1074	r_hand         	l_hand    	right-hand      
+1075	r_hr           	replacer  	right-hand-rear     
+1076	r_hr_h         	rrepair   	right-hand    
+1077	r_hs           	lp        	right-hand-side      
+1078	r_i            	c_o       	RI        
+1079	r_l            	absorbers 	rel       
+1080	r_number_      	kinked    	renumber  
+1081	r_r            	overhaul  	RR        
+1082	r_rear         	cpu       	right-rear      
+1083	r_s            	stiff     	R's       
+1084	ra             	tierod    	Ra        
+1085	radator        	grind     	radiator  
+1087	rax            	interior  	rax       
+1088	rb             	lb        	Rb        
+1090	rcs            	speakers  	rcs       
+1092	rea            	backhoe   	rea       
+1093	rea_c          	dr        	rec       
+1094	reair          	q         	repair    
+1095	reapair        	edd       	repair
+1096	reapir         	scratched 	repair    
+1097	reaseal        	inpsect   	reseal    
+1099	rebore         	recommissioning	're bore' 
+1101	recal          	maintain  	recalibrate  
+1102	recalibrate    	calibrate 	recalibrate
+1106	recieve        	rise      	receive   
+1109	reclamp        	retractor 	reclamp
+1110	recompressor   	impellor  	recompressor
+1111	reeler         	tray      	reeler 
+1112	reevap         	km        	reevap    
+1113	refix          	closing   	refix  
+1114	reflash        	kress_number_	reflash
+1115	refurb         	krown     	refurbish 
+1116	regased        	feel      	regased'
+1117	regass         	reoil     	regass' 
+1118	regassing      	washing   	regassing'
+1119	regen          	spool     	regen'  
+1120	reglue         	shockies  	reglue 
+1122	relace         	quiet     	replace   
+1125	relube         	collar    	relube 
+1126	reman          	pex       	reman  
+1127	rench          	blc       	wrench    
+1128	reoil          	supplementry	reoil 
+1129	repa           	tangled   	reap      
+1130	repace         	changeout 	replace 
+1131	repai          	tightening	repair    
+1132	repaire        	luber     	repair  
+1133	repaires       	hosing    	repair
+1134	repairsmart    	checktest 	repair smart
+1135	repalce        	retainer  	replace   
+1136	repar          	regassing 	repair  
+1137	repiar         	sr        	repair    
+1138	repin          	trunions  	repin  
+1139	repl           	replace   	replace   
+1140	repla          	may       	replace  
+1141	replac         	may       	replace 
+1142	replaceing     	washing   	replacing 
+1143	replacer       	r_hr      	replace
+1145	replae         	fresh     	replace    
+1146	replair        	section   	repair
+1147	replase        	boken     	replace   
+1148	replce         	program   	replace   
+1149	replumb        	bleeder   	replumb
+1150	repor          	adjustor  	repower  
+1151	repower        	pd        	repower
+1152	repr           	unplanned 	repower  
+1153	req            	needed    	required        
+1154	reqd           	required  	required       
+1155	reqs           	cabling   	requested       
+1156	requ           	distributor	requested     
+1157	rerace         	mtg       	rerace 
+1159	rerout         	ties      	reroute 
+1160	resample       	sos       	resample
+1161	reseat         	airleak   	reseat 
+1162	resecure       	secure    	resecure
+1163	reservior      	hydrlic   	reservoir 
+1164	reshim         	refit     	reshim 
+1166	resl           	rsl       	reseal      
+1167	resocket       	cedt      	resocket
+1168	ret            	retainer  	retainer       
+1170	retension      	retorque  	retension
+1171	retorque       	retension 	retorque
+1172	retractor      	reclamp   	retractor
+1173	retreive       	peice     	retrieve  
+1174	reving         	lash      	reeving   
+1175	rewelding      	repairing 	rewelding
+1177	rhf            	lhf       	right-hand-front        
+1179	rhr            	lhr       	right-hand-rear      
+1180	rhs            	lhs       	right-hand-side     
+1181	rht            	escape    	rht        
+1182	ri             	sissor    	ri        
+1184	riu            	idt       	riu        
+1185	rom            	ca        	rom       
+1186	rop            	regassing 	rop       
+1187	rops           	roof      	rop      
+1188	ros            	reserve   	ros      
+1189	roto           	converters	roto      
+1191	rotory         	hasps     	rotary    
+1192	rp             	conveyor  	rp        
+1193	rpair          	capping   	repair    
+1194	rpl            	vacume    	replace        
+1195	rplace         	globe     	replace   
+1196	rr             	rhr       	right-rear       
+1197	rrepair        	whole     	repair    
+1198	rreplace       	squashed  	replace   
+1199	rsl            	resl      	reseal       
+1200	rtd            	der       	rtd       
+1202	runout         	runouts   	runout 
+1203	runouts        	runout    	runout
+1204	rx             	receive   	receive        
+1205	ryco           	notes     	vendor_name      
+1206	s_a            	speeds    	s_a       
+1207	s_d            	mtce      	s_d        
+1208	s_down         	shutdown  	shutdown      
+1209	s_h            	matching  	second-hand        
+1210	s_hand         	s_h       	second-hand     
+1211	s_l            	preasure  	stubline       
+1212	s_l_number_    	highwall  	stubline _number_   
+1213	s_o            	calipiers 	s_o        
+1214	s_s            	tipping   	s_s       
+1215	s_steel        	parker    	s_steel     
+1216	s_truck        	maintence 	s_truck    
+1217	s_w            	s_wall    	side-wall        
+1218	s_wall         	sidewall  	side-wall   
+1220	saftey         	bins      	safety    
+1221	safty          	touch     	safety    
+1222	sampl          	nest      	sample    
+1226	sb             	leakagetest	sb        
+1228	sbtp           	accarp    	sbtp      
+1232	scr            	diode     	scr      
+1233	scrn           	rearmost  	scrn     
+1235	sd             	m         	SD        
+1236	se             	hydr      	SE        
+1237	seatbelt       	glowing   	'seat belt'
+1238	senser         	serv      	senser 
+1239	sep            	seppo     	seperation      
+1240	seperation     	seppo     	separation
+1242	seperators     	drinking  	separators
+1243	sepo           	seperation	seperation     
+1244	seppo          	seperation	seperation     
+1245	sept           	predictive	sept      
+1247	ser            	serial    	serial      
+1249	servce         	pd        	service   
+1250	servi          	different 	service     
+1251	servic         	carsouel  	service   
+1252	sevice         	insite    	service   
+1253	shalf          	input     	shaft     
+1255	sheeves        	sprokets  	'she eves'
+1256	sheilds        	accounts  	Shields   
+1257	shft           	sparking  	shaft   
+1259	shockie        	absorbers 	shockey   
+1261	shocksub       	headslide 	'shock sub'
+1262	shocky         	diaphragm 	shocky    
+1264	sicada         	susspression	vendor_name    
+1265	sid            	cones     	side       
+1269	sissor         	lat       	sissor   
+1270	skidsteer      	coolingscreen	'skid steer'
+1271	slipring       	invest    	'slip ring'
+1273	sm             	hm        	Sm        
+1274	smpl           	catcher   	sample    
+1275	smu            	scoped    	smu       
+1279	soleno         	electrohydraulic	solenoid
+1280	soliniod       	exhust    	solenoid  
+1282	solinoids      	prepreventative	solenoids 
+1283	solonoid       	strap     	solenoid  
+1284	sos            	sample    	SOS       
+1286	sp             	klenz     	Sp        
+1287	spd            	ting      	spd      
+1288	speedo         	flicking  	speedo     
+1289	sprag          	beval     	sprag     
+1290	sprags         	dutchmen  	sprags    
+1292	sprokets       	sheeves   	sprockets 
+1293	sps            	risk      	sps      
+1294	squeeling      	series    	squealing 
+1295	sr             	repiar    	Sr        
+1296	srart          	recepticle	Surat     
+1299	srvice         	yres      	service   
+1301	startco        	ngr       	vendor_name
+1304	startup        	compresor 	'start up'
+1306	statut         	lurication	statut   
+1307	stc            	evacuation	stc        
+1308	stemmer        	tilt      	stemmer   
+1311	str            	bateries  	str       
+1312	strg           	steer     	strg      
+1313	structual      	drifting  	structural
+1315	subsaver       	deckbush  	'sub saver'
+1316	suct           	l_u       	suction      
+1317	sunday         	monday    	Sunday    
+1318	sunvisor       	mesabi    	'sun visor'
+1319	suply          	traction  	supply    
+1321	suppect        	iol       	suspect   
+1322	suppession     	suppn     	suppression
+1324	suppn          	suppession	suppression   
+1325	suppresion     	suspression	suppression
+1326	supresion      	suppress  	suppression
+1328	surport        	suport    	support   
+1329	surpression    	supression	suppression
+1330	sus            	war       	sus      
+1331	susp           	suspension	suspension      
+1332	suspression    	suppresion	suppression
+1333	susspression   	suppress  	suppression
+1334	svc            	chrisway  	svc       
+1335	svce           	repr      	svce      
+1336	sw             	switches  	switches        
+1338	switc          	film      	switch    
+1340	swith          	identifications	switch    
+1341	sy             	booster   	say       
+1344	syste          	collison  	system    
+1345	systerm        	eyelet    	system    
+1346	sysytem        	cedt      	system    
+1347	sytem          	pall      	system    
+1348	t_c            	t_conv    	t_c        
+1349	t_con          	t_c       	torque-convertor    
+1350	t_conv         	t_c       	torque-convertor    
+1351	t_l            	t_r       	t_l        
+1352	t_q            	tailights 	t_q       
+1353	t_r            	t_l       	t_r        
+1354	t_shoot        	diagnose  	trouble-shoot     
+1355	t_stat         	cones     	thermostat   
+1356	t_way          	com       	two-way       
+1357	t_x            	orbitrol  	transmit        
+1359	taglink        	spindle   	'tag link'
+1360	tailight       	beacons   	tail-light 
+1361	tailights      	quater    	tail-lights
+1363	tait           	calipiers 	tait   
+1364	tc             	t_c       	tc        
+1365	tci            	psc       	tci       
+1366	tco            	cal       	tco      
+1367	tcon           	tc        	tcon       
+1368	tcp            	_number_gal	tcp        
+1370	tempreture     	awareness 	temperature
+1371	tensioning     	tightening	tensioning
+1373	tex            	diagram   	tex       
+1375	th             	activator 	th        
+1377	thermo         	prob      	therm     
+1380	thermostate    	hooks     	thermostat
+1381	thermostates   	skidsteer 	thermostat
+1383	thottle        	mth       	throttle  
+1385	threadlube     	uncontrolled	'thread lube'
+1392	tierod         	barrel    	'tie rod' 
+1393	tim            	nine      	Tim       
+1394	timmer         	caution   	timer     
+1395	timming        	record    	timing    
+1396	tis            	nmms      	tis      
+1398	tk             	preche    	tk       
+1399	tkd            	pit       	tkd        
+1401	tol            	o_l       	tol       
+1403	tp             	highwall  	tp       
+1405	tra            	rel       	tra      
+1406	trac           	details   	trac   
+1407	trackframe     	feeding   	'track frame'
+1408	traile         	overstroking	trailer   
+1410	traming        	hang      	tramming  
+1411	tran           	t_con     	transfer      
+1412	tranfer        	def       	transfer  
+1413	tranmission    	heui      	transmission
+1414	trannie        	waste     	transformer   
+1415	tranny         	trans     	transformer   
+1416	trans_t        	moto      	trans t   
+1418	transmision    	parking   	transmission
+1419	transmisson    	heui      	transmission
+1421	trany          	trans     	transformer  
+1422	trd            	mast      	trd      
+1423	treddle        	unloader  	treadle   
+1425	tri            	caes      	tri      
+1426	triping        	bleeding  	tripping  
+1428	triprope       	tripper   	'trip rope'
+1430	tritro         	receiving 	tritro   
+1434	trn            	ware      	trn      
+1435	trns           	east      	trns     
+1436	tronics        	player    	tronics    
+1437	tropos         	cascam    	tropos    
+1438	trunion        	trunnion  	trunnion
+1439	trunions       	trunnions 	trunnion
+1440	trunnion       	trunion   	trunnion 
+1442	trw            	ecu       	trw      
+1446	tugger         	replacing 	tugger    
+1448	tv             	glowing   	TV        
+1449	two_way        	comm      	two-way     
+1450	twoway         	fridge    	'two way' 
+1451	tx             	transformer	transformer        
+1454	tyne           	shank     	tynes      
+1455	tynes          	tyne      	tynes     
+1457	tyres          	tyre      	tyres     
+1458	u_joint        	matt      	joint     
+1459	u_s            	faulty    	unservicable       
+1460	u_t            	instru    	u_t        
+1462	un             	equiliser 	un        
+1463	unloader       	treddle   	unloader
+1468	ut             	strips    	UT        
+1470	v_number       	bearing   	NA  
+1472	va             	nine      	VA        
+1473	vaccum         	restrict  	vacuum 
+1474	vacum          	national  	vacuum  
+1475	vacume         	rpl       	vacuum    
+1476	valv           	grips     	valve     
+1477	vavle          	valves    	valve     
+1478	vbelt          	bowls     	vee belt     
+1479	vbelts         	rpl       	vee belts     
+1481	vee            	alt       	vee      
+1484	ver            	leakagetest	NA     
+1485	verti          	station   	vertical     
+1489	vimms          	km        	vimms  
+1491	vis            	reflective	vis     
+1494	vlv            	valves    	valves       
+1495	vlve           	spats     	valve     
+1496	volvo          	afitterwillberequiredbypope	Volvo     
+1497	vultec         	bsem      	vendor_name   
+1499	w_o            	wo        	work-order       
+1500	w_pump         	spec      	water-pump      
+1501	w_s            	w_shop    	work-shop      
+1502	w_screen       	hydralic  	wind-screen   
+1503	w_shop         	workshop  	work-shop     
+1504	w_way          	ethernet  	walk-way       
+1505	wa             	changeou  	WA        
+1506	wah            	headslide 	wah        
+1507	walkthrough    	thermography	'walk through'
+1508	waranty        	antennas  	warranty  
+1509	warr           	mechnical 	warranty      
+1510	warra          	parking   	warranty      
+1511	warrenty       	detection 	warranty  
+1512	washdown       	primer    	'wash down'
+1513	washpad        	distribution	'wash pad'
+1519	weightometer   	cctv      	weightometer
+1521	westhill       	many      	'west hill'
+1522	wh             	p_strip   	wh       
+1526	wiggin         	wiggings  	wiggings 
+1528	wil            	picking   	Will      
+1530	wippers        	rig       	whippers  
+1533	wnty           	null      	warranty       
+1534	wo             	history   	work-order       
+1535	woking         	ramp_number_	working   
+1536	wor            	ramp_number_	work       
+1537	workdeck       	headslide 	'work deck'
+1539	worklight      	flood     	'work light'
+1541	wormald        	s_l_number_	vendor_name     
+1544	wshop          	sampled   	work-shop      
+1545	wtr            	tear      	water        
+1546	wty            	refit     	warranty       
+1548	xir            	thermocouples	vendor_name       
+1551	yre            	yres      	tyre     
+1552	yres           	yre       	tyres   
+1553	yrly           	logger    	yearly      
+Total Numebr of Autocorrected Word 1058
